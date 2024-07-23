@@ -19,7 +19,7 @@ emerging technologies that are not yet widespread. I believe that new tech offer
 innovation. My enthusiasm for staying at the frontlines of technological advancements drives me to continuously learn and apply new 
 tools and methodologies in my work. I also have a keen 
  interest in game development, which fuels my creativity and problem-solving skills. My objective is to leverage my skills across different 
- areas of computer science enables me to approach problems from unique angles and find creative solutions `;
+ areas of computer science, enabling me to approach problems from unique angles and find creative solutions `;
 
 export const EXPERIENCES = [
   {
@@ -67,7 +67,7 @@ export const PROJECTS = [
     title: "Virtual Reality Shooting Range",
     image: project3,
     description:
-      "A virtual reality shooting range in which the player can fire from two weapons, an assault rifle and a pistol, each featuring their own unique reloading mechanics",
+      "A virtual reality shooting range in which the player can fire from two weapons, an assault rifle and a pistol, each featuring its own unique reloading mechanics",
     technologies: ["C#", "MetaQuest", "Unity3D"],
   },
   {
